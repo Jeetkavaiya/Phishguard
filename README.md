@@ -1,4 +1,4 @@
-![chrome_kKO0ZBNOFf](https://github.com/user-attachments/assets/81bb6006-0d43-42d8-bf36-fcda8199f859)# Phishguard
+# Phishguard
 This project aims to develop a website that detects phishing websites using machine learning techniques. Phishing is a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity in electronic communications. This website will help users identify phishing websites and protect their sensitive information.
 
 ## Table of Contents
