@@ -13,8 +13,6 @@ This project aims to develop a website that detects phishing websites using mach
 ## Introduction
 The Phishing Website Detection project aims to develop a robust and efficient machine learning model to identify and prevent phishing attacks by detecting fraudulent websites. Phishing websites mimic legitimate websites to deceive users into providing sensitive information, such as usernames, passwords, and credit card details. This project leverages machine learning techniques to analyze website features and distinguish between legitimate and phishing websites, thereby enhancing cybersecurity measures.
 
-Parkinson's Disease is a neurodegenerative disorder that affects movement. Early detection of the disease can significantly improve the quality of life for patients. This project leverages machine learning techniques to identify patterns in patient data that indicate the presence of Parkinson's Disease.
-
 ## Features
 - User-friendly interface for URL submission
 - Real-time phishing detection
